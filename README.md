@@ -9,6 +9,6 @@ Some things I've built:
 - **[Portal ICT](https://portal-ict.com.mx)**: the events site for the computing student societies at my campus.
 - A restaurant point-of-sale system (private repo): Spring Boot backend, plus React Native apps for the register and the kitchen.
 
-I also competed in the ICPC Mexico Finals in 2025.
+I also competed in the ICPC Mexico Finals in 2025, various hackathons and other contests.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/ayrton-soler).
